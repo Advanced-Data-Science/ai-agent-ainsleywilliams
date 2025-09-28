@@ -1,0 +1,9 @@
+{
+  "github_token": "YOUR_FAKE_TOKEN_HERE",
+  "repos": [
+    "tidyverse/ggplot2",
+    "rstudio/shiny",
+    "tidyverse/dplyr"
+  ],
+  "base_delay": 2
+}
