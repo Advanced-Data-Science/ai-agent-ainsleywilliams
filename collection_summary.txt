@@ -1,5 +1,0 @@
-=== Collection Summary ===
- Collection Date:  2025-09-28 18:58:29 
- Total Records Collected:  3 
- Success Rate:  1 
- Overall Quality Score:  0.95 
