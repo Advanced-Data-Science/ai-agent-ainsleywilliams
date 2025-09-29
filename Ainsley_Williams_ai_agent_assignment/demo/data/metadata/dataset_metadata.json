@@ -1,0 +1,18 @@
+{
+  "collection_info": {
+    "collection_date": "2025-09-28 19:02:25",
+    "total_records": 3,
+    "config": {
+      "repos": ["tidyverse/ggplot2", "rstudio/shiny", "Rdatatable/data.table"],
+      "base_delay": 1,
+      "save_paths": {
+        "raw_dir": "data/raw",
+        "processed_dir": "data/processed",
+        "metadata_dir": "data/metadata",
+        "logs_dir": "logs"
+      }
+    }
+  },
+  "data_sources": "GitHub REST API",
+  "variables": ["full_name", "description", "language", "stars", "forks", "watchers", "open_issues", "created_at", "updated_at", "pushed_at", "fetched_at"]
+}
