@@ -1,8 +1,0 @@
-{
-  "repos": [
-    "tidyverse/ggplot2",
-    "rstudio/shiny",
-    "Rdatatable/data.table"
-  ],
-  "base_delay": 1.0
-}
